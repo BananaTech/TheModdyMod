@@ -1,4 +1,12 @@
 TheModdyMod
 ===========
 
-The Mo
+Developers:
+  - MitchBourke
+
+Changelog:
+
+
+
+
+Coming Soon:
